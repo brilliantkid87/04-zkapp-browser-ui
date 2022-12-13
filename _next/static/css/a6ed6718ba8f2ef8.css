@@ -468,6 +468,8 @@ a {
 	position: absolute;
 	left: 250px;
 	top: 400px;
+  cursor: pointer;
+  transition: 0.3s;
 }
 
 .Home_sendBtn__F6hw6:hover {
@@ -480,6 +482,8 @@ a {
 	position: absolute;
 	left: 250px;
 	top: 400px;
+  cursor: pointer;
+  transition: 0.3s;
 }
 
 .Home_sendBtn__F6hw6:active {
@@ -492,6 +496,8 @@ a {
 	position: absolute;
 	left: 250px;
 	top: 400px;
+  cursor: pointer;
+  transition: 0.3s;
 }
 
 .Home_sendBtnDisable__6VyTK {
@@ -504,6 +510,8 @@ a {
 	position: absolute;
 	left: 250px;
 	top: 400px;
+  cursor: pointer;
+  transition: 0.3s;
 }
 
 .Home_getBtn__h_3sY {
@@ -803,8 +811,7 @@ a {
   .Home_code__suPER {
     background: #111;
   }
-  .Home_logo__27_tb img {
-  }
+  
    
   
 }
